@@ -77,4 +77,4 @@ Herramientas sugeridas para el proceso de aprendizaje:
 * [Draw.io](https://app.diagrams.net/) - Entorno para trabajar Diagramas de Flujo y Diagramas UML
 * [Visual Studio Code](https://code.visualstudio.com/)- Entorno de Desarrollo Integrado para Desarrollo
 * [Pycharm](https://www.jetbrains.com/pycharm/) - Entorno de Desarrollo Integrado para Desarrollo Web
-* [Sublime]([https://raptor.martincarlisle.com/](https://www.sublimetext.com/)) - Entorno de Desarrollo Integrado para Desarrollo
+* [Sublime]((https://www.sublimetext.com/)) - Entorno de Desarrollo Integrado para Desarrollo
