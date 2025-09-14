@@ -1,0 +1,73 @@
+<div align="center">
+	<h1><strong>Programacion II</strong></h1>
+	<strong>Hecho por:</strong> Miller Alexander Quiroga Campos
+</div>
+<br>
+
+<p>
+La materia de Programación II es la continuación lógica de Programación I, y lleva a los estudiantes a un nivel más avanzado en el desarrollo de software. Este curso se enfoca en el pensamiento orientado a objetos y en la construcción de sistemas más complejos y robustos, y prepara a los estudiantes para enfrentar desafíos de desarrollo de aplicaciones reales.
+<br>
+
+<strong>Temas Abordados:</strong> 
+
+Temas Principales
+1. Programación Orientada a Objetos (OOP) 👨‍💻
+El curso se centra en los pilares de la Programación Orientada a Objetos, una de las paradigmas de programación más importantes.
+
+Clases y Objetos: Se profundiza en el concepto de clases como "planos" para crear objetos, que encapsulan datos y comportamientos.
+
+Encapsulamiento: Se introduce el principio de ocultar los detalles de implementación de un objeto, exponiendo solo la funcionalidad necesaria a través de interfaces bien definidas.
+
+Herencia: Los estudiantes aprenden a crear nuevas clases basadas en clases existentes, permitiendo la reutilización de código y la creación de jerarquías de tipos.
+
+Polimorfismo: Se explora la capacidad de los objetos de diferentes clases para responder a la misma llamada de método de manera distinta, lo cual es fundamental para el diseño flexible.
+
+Diagramas UML de Clases: Se utiliza el Lenguaje Unificado de Modelado (UML) para visualizar y documentar la estructura de las clases y sus relaciones (asociación, agregación, composición, etc.) antes de escribir el código.
+
+2. Estructuras Avanzadas y Bibliotecas 📚
+Se extiende el conocimiento de las estructuras de datos y se introduce el uso de bibliotecas de terceros.
+
+Matrices: Se revisa y profundiza en el manejo de matrices para aplicaciones más avanzadas, como en análisis de datos o simulaciones.
+
+Bibliotecas: Los estudiantes aprenden a integrar y utilizar bibliotecas externas para extender la funcionalidad de sus programas sin tener que "reinventar la rueda".
+
+3. Bases de Datos y Persistencia de Datos 💾
+El curso aborda la conexión y manipulación de bases de datos, lo que permite a las aplicaciones almacenar y recuperar información de manera persistente.
+
+Se cubren los conceptos de bases de datos relacionales y cómo interactuar con ellas a través de código.
+
+4. Desarrollo de Aplicaciones Modernas 🌐
+Se aplican todos los conceptos aprendidos en el desarrollo de aplicaciones prácticas y con interfaz de usuario.
+
+Aplicaciones con Interfaz Gráfica de Usuario (GUI): Se aprende a crear interfaces visuales que permitan a los usuarios interactuar con el programa de forma intuitiva, en contraste con las aplicaciones de consola.
+
+Desarrollo Web (Flask y Django): Se introducen los fundamentos del desarrollo web con frameworks como Flask y Django. Se aplican los principios de la OOP para construir aplicaciones web robustas, escalables y bien estructuradas.
+
+Programación II consolida la lógica de pensamiento aprendida, pero la eleva para construir sistemas más complejos y mejor organizados. Se enfoca en el diseño de software de alta calidad, preparando a los estudiantes para proyectos más grandes y para las prácticas profesionales.
+## __Material interactivo__
+
+Contiene el material de clases de programación en Python hecho en Google Colab.
+
+<div align="center">
+	
+| Título | Temas | Enlace |
+| ------ | ------- | ------ |
+| __Introducción a *Python*__ | Variables | [![Abrir PDF](https://img.shields.io/badge/PDF-Drive-red)](https://drive.google.com/file/d/1hXwGcHaNzv4hcZWw7i6ZHc1Mn3ihibvP/view?usp=sharing) |
+| __Estructura de Datos__ | Colecciones -> listas, tuplas, diccionarios, conjuntos | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/10oIlXVfklJKTDvJqe384pI721v9FsgWT/view?usp=sharing) |
+| __Condicionales__ | Estructuras if-elif-else | [![Abrir PDF](https://img.shields.io/badge/PDF-Drive-red)](https://drive.google.com/file/d/1z2czYu6GlpsqGlWk1jIqIQaBRHHQs6OC/view?usp=sharing) |
+| __Bucles__ | Ciclos for y while | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) |
+| __Funciones__ | Funciones | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) |
+| __Matrices__ | Numpy | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) |
+
+</div>
+
+
+### __Herramientas__
+
+Herramientas sugeridas para el proceso de aprendizaje:
+
+* [Google colab](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index#recent=true) - Material interactivo para Python.
+* [Spyder](https://www.spyder-ide.org/) - Entorno de Desarrollo Integrado para Ciencia de Datos
+* [PSeInt](https://pseint.sourceforge.net/) - Entorno para trabajar Diagramas de flujo y psedocódigo
+* [Raptor](https://raptor.martincarlisle.com/) - Entorno para trabajar Diagramas de flujo
+* [Visual Studio Code](https://code.visualstudio.com/)- Entorno de Desarrollo Integrado para Desarrollo
