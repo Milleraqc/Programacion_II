@@ -53,22 +53,28 @@ Contiene el material de clases de programación en Python hecho en Google Colab.
 	
 | Título | Temas | Enlace |
 | ------ | ------- | ------ |
-| __Introducción a *Python*__ | Variables | [![Abrir PDF](https://img.shields.io/badge/PDF-Drive-red)](https://drive.google.com/file/d/1hXwGcHaNzv4hcZWw7i6ZHc1Mn3ihibvP/view?usp=sharing) |
-| __Estructura de Datos__ | Colecciones -> listas, tuplas, diccionarios, conjuntos | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/10oIlXVfklJKTDvJqe384pI721v9FsgWT/view?usp=sharing) |
-| __Condicionales__ | Estructuras if-elif-else | [![Abrir PDF](https://img.shields.io/badge/PDF-Drive-red)](https://drive.google.com/file/d/1z2czYu6GlpsqGlWk1jIqIQaBRHHQs6OC/view?usp=sharing) |
-| __Bucles__ | Ciclos for y while | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) |
-| __Funciones__ | Funciones | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) |
-| __Matrices__ | Numpy | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) |
+| __Biblioteca numpy__ | Vectores, Matrices y Visualización | [![Abrir PDF](https://img.shields.io/badge/PDF-Drive-red)](https://drive.google.com/file/d/1ZfNYGiTqmn-wipDiX3k1BHZo6auZ3yYo/view?usp=sharing) |
+| __Errores y Excepciones__ | Captura de errores y excepciones | [![Abrir PDF](https://img.shields.io/badge/PDF-Drive-red)](https://drive.google.com/file/d/1n7OSthD36MJNqGD-nUx8Mh_uxEaxrBh8/view?usp=sharing) |
+| __Biblioteca Random y Time__ | Manejo de Bibliotecas Time y Random | [![Abrir PDF](https://img.shields.io/badge/PDF-Drive-red)](https://drive.google.com/file/d/1BK6X3HOOvcPgLIanVQkdKlxyu1RV5wIb/view?usp=sharing) |
+| __Clases y Objetos__ | Iniciando con OOP - Atributos y Métodos | [![Abrir PDF](https://img.shields.io/badge/PDF-Drive-red)](https://drive.google.com/file/d/151m0Jl_n_UBw1iHVQX5grS_TWaa6l9PL/view?usp=sharing) |
+| __Encapsulamiento__ | Atributos y Metodos protegidos | [![Abrir PDF](https://img.shields.io/badge/PDF-Drive-red)](https://drive.google.com/file/d/1RNwIhPqvh-N0--nKNhg4LBAJ-1_QJzvn/view?usp=sharing) |
+| __Herencia__ | Clase Padre - Clase hija | [![Abrir PDF](https://img.shields.io/badge/PDF-Drive-red)](https://drive.google.com/file/d/1LQCqe8YVCCZ5MHB_qRWObWfjRRy3Crai/view?usp=sharing) |
+| __UML__ | Diagramas entre clases - Relaciones | [![Abrir PDF](https://img.shields.io/badge/PDF-Drive-red)](https://drive.google.com/file/d/1eIFceGZGPsprzLsZ7HBTg9v5B8G9yRA9/view?usp=sharing) |
+| __Polimorfismo__ | Clase Padre - Clase hija | [![Abrir PDF](https://img.shields.io/badge/PDF-Drive-red)]() |
+| __Bases de Datos__ | Mysql - sqlite3 | [![Abrir PDF](https://img.shields.io/badge/PDF-Drive-red)]() |
+| __Bases de Datos__ | Integración de Bases de datos con Python | [![Abrir PDF](https://img.shields.io/badge/PDF-Drive-red)]() |
+| __Aplicación GUI__ | Aplicación Interfaz Gráfica | [![Abrir PDF](https://img.shields.io/badge/PDF-Drive-red)]() |
+| __Aplicacion Web__ | Aplicación Web - Flask | [![Abrir PDF](https://img.shields.io/badge/PDF-Drive-red)]() |
+| __Aplicacion Web__ | Aplicación Web - Django | [![Abrir PDF](https://img.shields.io/badge/PDF-Drive-red)]() |
 
 </div>
-
 
 ### __Herramientas__
 
 Herramientas sugeridas para el proceso de aprendizaje:
 
-* [Google colab](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index#recent=true) - Material interactivo para Python.
 * [Spyder](https://www.spyder-ide.org/) - Entorno de Desarrollo Integrado para Ciencia de Datos
-* [PSeInt](https://pseint.sourceforge.net/) - Entorno para trabajar Diagramas de flujo y psedocódigo
-* [Raptor](https://raptor.martincarlisle.com/) - Entorno para trabajar Diagramas de flujo
+* [Draw.io](https://app.diagrams.net/) - Entorno para trabajar Diagramas de Flujo y Diagramas UML
 * [Visual Studio Code](https://code.visualstudio.com/)- Entorno de Desarrollo Integrado para Desarrollo
+* [Pycharm](https://www.jetbrains.com/pycharm/) - Entorno de Desarrollo Integrado para Desarrollo Web
+* [Sublime]([https://raptor.martincarlisle.com/](https://www.sublimetext.com/)) - Entorno de Desarrollo Integrado para Desarrollo
