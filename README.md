@@ -60,8 +60,8 @@ Contiene el material de clases de programación en Python hecho en Google Colab.
 | __Encapsulamiento__ | Atributos y Metodos protegidos | [![Abrir PDF](https://img.shields.io/badge/PDF-Drive-red)](https://drive.google.com/file/d/1RNwIhPqvh-N0--nKNhg4LBAJ-1_QJzvn/view?usp=sharing) |
 | __Herencia__ | Clase Padre - Clase hija | [![Abrir PDF](https://img.shields.io/badge/PDF-Drive-red)](https://drive.google.com/file/d/1LQCqe8YVCCZ5MHB_qRWObWfjRRy3Crai/view?usp=sharing) |
 | __UML__ | Diagramas entre clases - Relaciones | [![Abrir PDF](https://img.shields.io/badge/PDF-Drive-red)](https://drive.google.com/file/d/1eIFceGZGPsprzLsZ7HBTg9v5B8G9yRA9/view?usp=sharing) |
-| __Polimorfismo__ | Clase Padre - Clase hija | [![Abrir PDF](https://img.shields.io/badge/PDF-Drive-red)]() |
-| __Métodos Especiales__ | Metodos Especiales de Objetos | [![Abrir PDF](https://img.shields.io/badge/PDF-Drive-red)]() |
+| __Polimorfismo__ | Clase Padre - Clase hija | [![Abrir PDF](https://img.shields.io/badge/PDF-Drive-red)](https://drive.google.com/file/d/141IUN3NAqP-OgXy4DZu0LgtgcKr6DRTe/view?usp=sharing) |
+| __Métodos Especiales__ | Metodos Especiales de Objetos | [![Abrir PDF](https://img.shields.io/badge/PDF-Drive-red)](https://drive.google.com/file/d/1Xnsq8ngn_WOmSTD7H_mShHOTdLYr1hX0/view?usp=sharing)|
 | __Repositorios__ | Git - github - Gitlab - Bitbucket | [![Abrir PDF](https://img.shields.io/badge/PDF-Drive-red)](https://drive.google.com/file/d/1nTPF4X6lb91XWlNukJeiuIMRiC6l4ca4/view?usp=sharing) |
 | __Bases de Datos__ | Mysql - sqlite3 | [![Abrir PDF](https://img.shields.io/badge/PDF-Drive-red)]() |
 | __Bases de Datos__ | Integración de Bases de datos con Python | [![Abrir PDF](https://img.shields.io/badge/PDF-Drive-red)]() |
